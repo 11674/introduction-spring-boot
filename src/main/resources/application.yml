@@ -1,0 +1,8 @@
+server:
+   port: 8082
+   server:
+   servlet.context-path: /introduction/spring
+   
+introduction:
+    spring:
+       nombre: Introduction to Spring Boot
